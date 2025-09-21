@@ -1,1 +1,4 @@
 - 👋 Hi, I’m Arbes
+- Data Centre Engineer
+- Cybersecurity Enthusiast
+-  Exploring AI projects for data center optimization, predictive maintenance, and intelligent infrastructure. 
